@@ -14,6 +14,10 @@ Both methods are implemented with fixed scoring values for match, mismatch, and 
 
 ![](IMG/IMG3.png)
 
+![](IMG/IMG5.png)
+
 ![](IMG/IMG4.png)
+
+![](IMG/IMG6.png)
 
 
